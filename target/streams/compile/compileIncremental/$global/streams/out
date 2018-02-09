@@ -1,0 +1,72 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(C:\Learn\scala\lang\src\main\scala\orderRevenue.scala, C:\Learn\scala\lang\src\main\scala\orderRevenue2.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Learn\scala\lang\src\main\scala\orderRevenue.scala, C:\Learn\scala\lang\src\main\scala\orderRevenue2.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Learn\scala\lang\src\main\scala\orderRevenue.scala, C:\Learn\scala\lang\src\main\scala\orderRevenue2.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Learn\scala\lang\src\main\scala\orderRevenue.scala, C:\Learn\scala\lang\src\main\scala\orderRevenue2.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to C:\Learn\scala\lang\target\scala-2.10\classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.10.6[0m
+[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.10.6. Compiling...[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.10.6  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_4ed08c41[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Java\jdk1.8.0_131\jre\classes;C:\Users\omkar.prabhudesai\.sbt\boot\scala-2.10.6\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\omkar.prabhudesai\.sbt\boot\scala-2.10.6\org.scala-sbt\sbt\0.13.16\xsbti\interface-0.13.16.jar;C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_90f55062\srcs\org.scala-sbt\compiler-interface\compiler-interface-0.13.16-sources.jar;C:\Users\omkar.prabhudesai\.sbt\boot\scala-2.10.6\lib\scala-compiler.jar;C:\Users\omkar.prabhudesai\.sbt\boot\scala-2.10.6\lib\jline.jar;C:\Users\omkar.prabhudesai\.sbt\boot\scala-2.10.6\lib\jansi.jar;C:\Users\omkar.prabhudesai\.sbt\boot\scala-2.10.6\lib\scala-reflect.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_c63f103a\xsbt\API.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_c63f103a\xsbt\Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_c63f103a\xsbt\Command.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_c63f103a\xsbt\Compat.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_c63f103a\xsbt\CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_c63f103a\xsbt\ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_c63f103a\xsbt\DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_c63f103a\xsbt\Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_c63f103a\xsbt\ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_c63f103a\xsbt\ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_c63f103a\xsbt\GlobalHelpers.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_c63f103a\xsbt\LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_c63f103a\xsbt\Log.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_c63f103a\xsbt\Message.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\OMKAR~1.PRA\AppData\Local\Temp\sbt_c63f103a\xsbt\ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 7.749 s[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 6618a894, interfacing (CompilerInterface) with Scala compiler version 2.10.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Java\jdk1.8.0_131\jre\classes;C:\Users\omkar.prabhudesai\.sbt\boot\scala-2.10.6\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Learn\scala\lang\target\scala-2.10\classes[0m
+[0m[[0mdebug[0m] [0mScala compilation took 20.758618619 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Learn\scala\lang\src\main\scala\orderRevenue.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Learn\scala\lang\src\main\scala\orderRevenue.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Learn\scala\lang\src\main\scala\orderRevenue.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Learn\scala\lang\src\main\scala\orderRevenue.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Learn\scala\lang\src\main\scala\orderRevenue.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, orderRevenue, isInstanceOf, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Learn\scala\lang\src\main\scala\orderRevenue2.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Learn\scala\lang\src\main\scala\orderRevenue2.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Learn\scala\lang\src\main\scala\orderRevenue2.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Learn\scala\lang\src\main\scala\orderRevenue2.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Learn\scala\lang\src\main\scala\orderRevenue2.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, orderRevenue2, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
